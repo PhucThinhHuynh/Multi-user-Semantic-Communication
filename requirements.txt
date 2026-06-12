@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+diffusers
+datasets
+accelerate
+safetensors
+pillow
+matplotlib
+numpy
+nltk
+tqdm
+scipy
+thop
